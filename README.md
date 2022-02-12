@@ -43,6 +43,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 <img src="images/nodejs.svg?raw=true" align="left" height="50" >
 <img src="images/android.svg?raw=true" height="50">
 
+<br />
 <!-- Design -->
 ## Design
 
