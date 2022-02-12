@@ -41,6 +41,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 
 <br/>
 <br/>
+<br/>
 
 * An Android Mobile Application that allows Spotify users to add and listen to music together on one queue. 
 * Built using Java, Kotlin & XML through Android Studio. Applied JUnit for testing.
