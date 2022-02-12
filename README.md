@@ -35,7 +35,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 * Built using Java, Kotlin & XML through Android Studio. Applied JUnit for testing.
 * Utilized Spotify’s RESTful API for authentication and retrieval of data. Made use of Spotify’s Remote SDK to add to the queue and play music.
 * Developed a Realtime communication channel with Firebase Realtime database (NoSQL) to allow instant communication between the host and everyone within the host’s party. Implemented several Firebase cloud functions using NodeJS to instill server-side functionalities such as deleting an inactive party.
-* Check out the app on [Play Store](https://play.google.com/store/apps/details?id=com.zgapplications.airtune) <br/> <br/> <br/>
+* Check out the app on [Play Store](https://play.google.com/store/apps/details?id=com.zgapplications.airtune) <br/>
 
 <img src="images/java.svg?raw=true" align="left" height="50" >
 <img src="images/kotlin.svg?raw=true" align="left" height="50" >
@@ -44,9 +44,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 <img src="images/android.svg?raw=true" height="50">
 
 <br />
-<br />
 
-<img src="images/airtune_logo.png" width="80" > 
 <img src="images/ss1.png" align="left" width="220" >
 <img src="images/ss2.png" align="left" width="220" >
 <img src="images/ss3.png" width="220" >
