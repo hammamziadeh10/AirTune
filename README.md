@@ -9,7 +9,6 @@
   <p align="center">
 A Spotify Jukebox Full-Stack Android Application <br />
     <br />
-    <br />
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Report Bug</a>
     ·
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Request Feature</a>
@@ -22,38 +21,27 @@ A Spotify Jukebox Full-Stack Android Application <br />
 ## Table of Contents
 
 * [Details](#details)
-* [Contributing](#contributing)
 * [Contact](#contact)
 
 <!-- DESIGN -->
 ## Details
-An algorithmic trading program that analyzes Dow Jones S&P 500 for the best stocks to buy using the Momentum strategy. Specifically, The Ken Frenchs approach is used; thus the past year - except the last month- is analyzed. Stock data is web scraped (using Pandas Datareader) from Yahoo Finance; Pandas, Numpy are both used for the analysis. Finally the Robinhood private-api is used to automatically buy the stocks and sell after 30 days. The program is hosted on a google cloud server. The time and stock prices are both sent to a Firebase realtime database.  Hence a realtime connection is established between the python program and Android Frontend that I created to track process on the go.
+• An Android Mobile Application that allows Spotify users to add and listen to music together on one queue. 
+• Built using Java, Kotlin & XML through Android Studio. Applied JUnit for testing.
+• Utilized Spotify’s RESTful API for authentication and retrieval of data. Made use of Spotify’s Remote SDK to add to the queue and play music.
+• Developed a Realtime communication channel with Firebase Realtime database (NoSQL) to allow instant communication between the host and everyone within the host’s party. Implemented several Firebase cloud functions using NodeJS to instill server-side functionalities such as deleting an inactive party.
 
 <img src="gitImages/java.svg?raw=true" align="left" height="50" >
-<img src="gitImages/python.svg?raw=true" align="left" height="50" >
-<img src="gitImages/google-cloud.svg?raw=true" align="left" height="50" >
+<img src="gitImages/kotlin.svg?raw=true" align="left" height="50" >
 <img src="gitImages/firebase.svg?raw=true" align="left" height="50" >
-<img src="gitImages/android-icon.svg?raw=true" height="50">
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions from anyone who wants to make a meaningful change are much appreciated!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-
+<img src="gitImages/nodejs.svg?raw=true" align="left" height="50" >
+<img src="gitImages/android.svg?raw=true" height="50">
 
 <!-- CONTACT -->
 ## Contact
 
 Hammam Ziadeh - hammamziadeh10@gmail.com
 
-Project Link: [https://github.com/hammamziadeh10/Algorithmic-Trading](https://github.com/hammamziadeh10/Algorithmic-Trading)
+Project Link: [https://github.com/hammamziadeh10/AirTune](https://github.com/hammamziadeh10/AirTune)
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
