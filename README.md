@@ -34,10 +34,13 @@ A Spotify Jukebox Full-Stack Android Application <br />
 <img src="images/kotlin.svg?raw=true" align="left" height="50" >
 <img src="images/firebase.svg?raw=true" align="left" height="50" >
 <img src="images/nodejs.svg?raw=true" align="left" height="50" >
-<img src="images/android.svg?raw=true" height="50">
+<img src="images/android.svg?raw=true" align="left" height="50">
 <a href="https://play.google.com/store/apps/details?id=com.zgapplications.airtune">
       <img src="images/google-play-badge.png" align ="right" width="160" >
 </a>
+
+<br/>
+<br/>
 
 * An Android Mobile Application that allows Spotify users to add and listen to music together on one queue. 
 * Built using Java, Kotlin & XML through Android Studio. Applied JUnit for testing.
