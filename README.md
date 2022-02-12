@@ -36,7 +36,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 * Utilized Spotify’s RESTful API for authentication and retrieval of data. Made use of Spotify’s Remote SDK to add to the queue and play music.
 * Developed a Realtime communication channel with Firebase Realtime database (NoSQL) to allow instant communication between the host and everyone within the host’s party. Implemented several Firebase cloud functions using NodeJS to instill server-side functionalities such as deleting an inactive party.
 
-<img src="images/airtune_logo.png" align="left" width="150" > <br />
+<img src="images/airtune_logo.png" width="150" > 
 <img src="images/ss1.png" align="left" width="150" >
 <img src="images/ss2.png" align="left" width="150" >
 <img src="images/ss3.png" width="150" >
