@@ -9,7 +9,7 @@
   <p align="center">
 A Spotify Jukebox Full-Stack Android Application <br />
     <br />
-    <img src="images/google-play-badge.png" width="120" >
+    <img src="images/google-play-badge.png" src="https://play.google.com/store/apps/details?id=com.zgapplications.airtune" width="160" >
      <br />
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Report Bug</a>
     ·
