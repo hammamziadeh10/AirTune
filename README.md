@@ -43,10 +43,10 @@ A Spotify Jukebox Full-Stack Android Application <br />
 * Check out the app on [Play Store](https://play.google.com/store/apps/details?id=com.zgapplications.airtune) <br/> <br/> <br/>
 
 
-<img src="images/airtune_logo.png" width="90" > 
-<img src="images/ss1.png" align="center" width="200" >
-<img src="images/ss2.png" align="center" width="200" >
-<img src="images/ss3.png" width="200" >
+<img src="images/airtune_logo.png" width="80" > 
+<img src="images/ss1.png" align="left" width="220" >
+<img src="images/ss2.png" align="left" width="220" >
+<img src="images/ss3.png" width="220" >
 
 
 <!-- CONTACT -->
