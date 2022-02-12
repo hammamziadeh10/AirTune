@@ -9,17 +9,17 @@
   <p align="center">
 A Spotify Jukebox Full-Stack Android Application <br />
     <br />
-    [![google-play-badge]("images/google-play-badge.png")]("https://play.google.com/store/apps/details?id=com.zgapplications.airtune")
-    <img src="images/google-play-badge.png" 
-         src="https://play.google.com/store/apps/details?id=com.zgapplications.airtune" width="160" >
+    <a href="https://play.google.com/store/apps/details?id=com.zgapplications.airtune">
+      <img src="images/google-play-badge.png" width="160" >
+    </a>
      <br />
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Report Bug</a>
     ·
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Request Feature</a>
   </p>
 </p>
-
-[![google-play-badge](images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.zgapplications.airtune)
+<!-- 
+[![google-play-badge](images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.zgapplications.airtune) -->
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
