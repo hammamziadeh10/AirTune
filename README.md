@@ -54,7 +54,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 
 Hammam Ziadeh - hammamziadeh10@gmail.com
 
-Project Link: [https://github.com/hammamziadeh10/AirTune](https://play.google.com/store/apps/details?id=com.zgapplications.airtune)
+Project Link: [https://play.google.com/store/apps/details?id=com.zgapplications.airtune](https://play.google.com/store/apps/details?id=com.zgapplications.airtune)
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
