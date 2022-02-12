@@ -28,7 +28,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
 * [Details](#details)
 * [Contact](#contact)
 
-<!-- DESIGN -->
+<!-- Details -->
 ## Details
 
 * An Android Mobile Application that allows Spotify users to add and listen to music together on one queue. 
@@ -43,6 +43,8 @@ A Spotify Jukebox Full-Stack Android Application <br />
 <img src="images/nodejs.svg?raw=true" align="left" height="50" >
 <img src="images/android.svg?raw=true" height="50">
 
+<!-- Design -->
+## Design
 <br />
 
 <img src="images/ss1.png" align="left" width="220" >
