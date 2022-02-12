@@ -13,6 +13,7 @@ A Spotify Jukebox Full-Stack Android Application <br />
       <img src="images/google-play-badge.png" width="160" >
     </a>
      <br />
+     <br />
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Report Bug</a>
     ·
     <a href="https://github.com/hammamziadeh10/AirTune/issues">Request Feature</a>
