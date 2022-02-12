@@ -25,16 +25,16 @@ A Spotify Jukebox Full-Stack Android Application <br />
 
 <!-- DESIGN -->
 ## Details
-• An Android Mobile Application that allows Spotify users to add and listen to music together on one queue. 
-• Built using Java, Kotlin & XML through Android Studio. Applied JUnit for testing.
-• Utilized Spotify’s RESTful API for authentication and retrieval of data. Made use of Spotify’s Remote SDK to add to the queue and play music.
-• Developed a Realtime communication channel with Firebase Realtime database (NoSQL) to allow instant communication between the host and everyone within the host’s party. Implemented several Firebase cloud functions using NodeJS to instill server-side functionalities such as deleting an inactive party.
+* An Android Mobile Application that allows Spotify users to add and listen to music together on one queue. 
+* Built using Java, Kotlin & XML through Android Studio. Applied JUnit for testing.
+* Utilized Spotify’s RESTful API for authentication and retrieval of data. Made use of Spotify’s Remote SDK to add to the queue and play music.
+* Developed a Realtime communication channel with Firebase Realtime database (NoSQL) to allow instant communication between the host and everyone within the host’s party. Implemented several Firebase cloud functions using NodeJS to instill server-side functionalities such as deleting an inactive party.
 
-<img src="gitImages/java.svg?raw=true" align="left" height="50" >
-<img src="gitImages/kotlin.svg?raw=true" align="left" height="50" >
-<img src="gitImages/firebase.svg?raw=true" align="left" height="50" >
-<img src="gitImages/nodejs.svg?raw=true" align="left" height="50" >
-<img src="gitImages/android.svg?raw=true" height="50">
+<img src="images/java.svg?raw=true" align="left" height="50" >
+<img src="images/kotlin.svg?raw=true" align="left" height="50" >
+<img src="images/firebase.svg?raw=true" align="left" height="50" >
+<img src="images/nodejs.svg?raw=true" align="left" height="50" >
+<img src="images/android.svg?raw=true" height="50">
 
 <!-- CONTACT -->
 ## Contact
